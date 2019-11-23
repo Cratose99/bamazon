@@ -1,5 +1,5 @@
 # bamazon
-This is a retail simulation program that uses node and mysql. You can either be a customer or manager.
+This is a amazon mock that uses node and mysql.
 
 # Customer
 Running node bamazon.js will display the available products and provide a prompt of different options
